@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/FlappyBird.dir/main.cpp.o -o FlappyBird  -lglut -lGLU -lGL 

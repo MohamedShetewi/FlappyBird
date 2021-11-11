@@ -1,0 +1,3 @@
+/home/mohamedshetewi/CLionProjects/FlappyBird/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mohamedshetewi/CLionProjects/FlappyBird/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mohamedshetewi/CLionProjects/FlappyBird/cmake-build-debug/CMakeFiles/FlappyBird.dir
